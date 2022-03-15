@@ -20,3 +20,23 @@ My goal is to become a great developer and find a team with which we will create
 * VS Code
 
 ## Code Example
+
+```javascript
+function multiply(a, b){
+  return a * b
+};
+```
+
+## Experience
+#### Projects
+* My first project: [CV](https://github.com/DiTsukanova/rsschool-cv) 
+
+## Education
+* HTML Academy
+
+
+![HTML Academy](./img/Myprogress2.png "My progress")
+
+
+* JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+* RS Schools 
