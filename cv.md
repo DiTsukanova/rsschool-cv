@@ -40,3 +40,6 @@ function multiply(a, b){
 
 * JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools 
+
+## English
+Elementary (A2)
