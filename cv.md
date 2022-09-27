@@ -30,4 +30,17 @@ function multiply(a, b){
 
 ## Experience
 #### Projects
-* My first project: [CV](https://github.com/DiTsukanova/rsschool-cv) 
+* My first project: [CV](https://github.com/DiTsukanova/rsschool-c
+
+## Education
+* HTML Academy
+
+
+![HTML Academy](./img/Myprogress2.png "My progress")
+
+
+* JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+* RS Schools 
+
+## English
+Elementary (A2)
